@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    background-color: rgb(107, 171, 245);
+}
+h1{
+    text-align: center;
+    padding: 50px;
+}
+h2{
+    margin: 20px;
+}
+
+img{
+    height: 280px;
+    margin: 20px;
+}
+main{
+    margin:0 200px;text-align: center;
+}
+footer{
+    background-color: rgb(107, 171, 245);
+    height: 120px;
+}
